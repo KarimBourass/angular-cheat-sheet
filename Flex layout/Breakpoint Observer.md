@@ -13,4 +13,4 @@
       this.isScreenSmall = state.matches;
     })
 
-  }
+    }
